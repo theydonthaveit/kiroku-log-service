@@ -1,1 +1,5 @@
 .vscode
+app/logs/*.logv
+app/logs/*.log
+app/supervisord.log
+app/web/__*

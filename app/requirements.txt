@@ -1,0 +1,3 @@
+Quart
+Quart-CORS
+gunicorn
