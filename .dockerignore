@@ -4,5 +4,5 @@ docker-compose.yml
 .gitignore
 app/logs/*.logv
 app/logs/*.log
-app/supervisord.log
+app/supervisord.*
 app/web/__*
