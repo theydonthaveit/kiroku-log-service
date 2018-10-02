@@ -5,6 +5,7 @@ services:
     build: .
     volumes:
       - ./app:/app
+      - ./app/web:/app/web
     restart: on-failure
     ports:
      - "5000:80"
