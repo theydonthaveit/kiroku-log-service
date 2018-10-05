@@ -3,3 +3,4 @@ app/logs/*.logv
 app/logs/*.log
 app/web/__*
 app/supervisord.*
+tests/__*
